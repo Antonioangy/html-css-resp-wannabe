@@ -110,3 +110,35 @@ img {
     margin-top: 10px;
   }
 
+  #steps .row .left,
+  #steps .row .central,
+  #steps .row .right {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  #why{
+    background-color: #fff;
+  }
+  
+  #why .row .first,
+  #why .row .second,
+  #why .row .third {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  #why .row .second{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  #why img{
+    height: 100px;
+  }
+
+  #why .row img {
+    padding: 30px
+  }
+  
+}
